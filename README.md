@@ -16,6 +16,8 @@
 
 [免抠素材](https://pngimg.com/)
 
+[AI工具](https://ai-bot.cn)
+
 [飓风素材](https://www.ysjf.com/material)
 
 [手写模拟](https://www.autohanding.com/)

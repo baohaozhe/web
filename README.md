@@ -1,2 +1,6 @@
-# web
-favorite web list
+# website
+website list
+
+[自动抠图](https://bgsub.com/webapp/)
+
+[视频下载](https://greenvideo.cc)

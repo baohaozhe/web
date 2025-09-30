@@ -26,4 +26,6 @@
 
 [飞行模拟](https://www.geo-fs.com)
 
+[十分魔性](https://patatap.com)
+
 </h>

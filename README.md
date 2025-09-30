@@ -16,7 +16,7 @@
 
 [免抠素材](https://pngimg.com/)
 
-[AI工具](https://ai-bot.cn)
+[人工智能](https://ai-bot.cn)
 
 [飓风素材](https://www.ysjf.com/material)
 

@@ -8,6 +8,8 @@
 
 [矢量图标](https://www.svgrepo.com/)
 
+[图片压缩](https://tikolu.net/emojimix/)
+
 [免抠素材](https://pngimg.com/)
 
 [手写模拟](https://www.autohanding.com/)

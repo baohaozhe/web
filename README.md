@@ -12,6 +12,8 @@
 
 [免抠素材](https://pngimg.com/)
 
+[飓风素材](https://www.ysjf.com/material)
+
 [手写模拟](https://www.autohanding.com/)
 
 [游戏整合](https://poki.com)

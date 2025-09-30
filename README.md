@@ -10,6 +10,8 @@
 
 [矢量图标](https://www.svgrepo.com/)
 
+[制作词云](https://www.weiciyun.com)
+
 [图片压缩](https://tikolu.net/emojimix/)
 
 [免抠素材](https://pngimg.com/)

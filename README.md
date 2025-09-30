@@ -14,6 +14,8 @@
 
 [手写模拟](https://www.autohanding.com/)
 
+[游戏整合](https://poki.com)
+
 [我的世界](https://www.mc.js.cool/)
 
 [飞行模拟](https://www.geo-fs.com)

@@ -26,6 +26,8 @@
 
 [我的世界](https://www.mc.js.cool/)
 
+[农场规划](https://stardew.info)
+
 [飞行模拟](https://www.geo-fs.com)
 
 [十分魔性](https://patatap.com)

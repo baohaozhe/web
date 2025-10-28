@@ -34,8 +34,3 @@
 
 [飞行模拟](https://www.geo-fs.com)
 >无需登录，模拟真实飞行***需要较高配置**
-[十分魔性](https://patatap.com)
-
-<b>[更多网站](https://www.toolnb.com)</b>
-
-</h>

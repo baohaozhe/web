@@ -1,35 +1,39 @@
-# website
-<h3>websites list</h3>
-<h>
+##[工具整合](https://www.toolnb.com)
   
 [自动抠图](https://bgsub.com/webapp/)
+>无需登录，在线抠图
 
 [视频抠图](https://www.unscreen.com/upload)
+>无需登录，在线抠视频***需使用纯色背景**
 
 [视频下载](https://greenvideo.cc)
+>无需登录，粘贴视频链接即可下载原视频***Safari浏览器无法下载**
 
 [矢量图标](https://www.svgrepo.com/)
+>无需登录，海量可调整矢量图标
 
 [制作词云](https://www.weiciyun.com)
-
-[图片压缩](https://tikolu.net/emojimix/)
-
-[免抠素材](https://pngimg.com/)
+>无需登录，制作多种词云图***移动端不可用**
 
 [人工智能](https://ai-bot.cn)
+>无需登录，海量人工智能工具
 
 [飓风素材](https://www.ysjf.com/material)
+>无需登录，大量免费素材
 
 [手写模拟](https://www.autohanding.com/)
+>需要登录，上传word即可生成模拟手写图片
 
-[游戏整合](https://poki.com)
+##[游戏整合](https://poki.com)##
 
 [我的世界](https://www.mc.js.cool/)
+>无需登录，在线玩我的世界
 
 [农场规划](https://stardew.info)
+>无需登录，星露谷物语农场规划器
 
 [飞行模拟](https://www.geo-fs.com)
-
+>无需登录，模拟真实飞行***需要较高配置**
 [十分魔性](https://patatap.com)
 
 <b>[更多网站](https://www.toolnb.com)</b>

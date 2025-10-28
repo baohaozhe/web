@@ -22,7 +22,7 @@
 >无需登录，大量免费素材
 
 [手写模拟](https://www.autohanding.com/)
->需要登录，上传word即可生成模拟手写图片
+>*需要登录*，上传word即可生成模拟手写图片
 
 ## [游戏整合](https://poki.com)
 

@@ -1,6 +1,6 @@
 ## [工具整合](https://www.toolnb.com)
   
-[自动抠图](https://bgsub.com/webapp/)
+[自动抠图](https://removebg.net/zh/remove-background)
 >无需登录，在线抠图
 
 [视频抠图](https://www.unscreen.com/upload)
